@@ -215,22 +215,22 @@ measures respond to the selected report filters.
 ### Dashboard Preview
 
 #### 1. Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshorts/executive_overview.png)
 
 #### 2. City Intelligence
-![City Intelligence](screenshots/city_intelligence.png)
+![City Intelligence](screenshorts/city_intelligence.png)
 
 #### 3. Service Reliability
-![Service Reliability](screenshots/service_reliability.png)
+![Service Reliability](screenshorts/service_reliability.png)
 
 #### 4. Passenger Demand
-![Passenger Demand](screenshots/passenger_demand.png)
+![Passenger Demand](screenshorts/passenger_demand.png)
 
 #### 5. Fleet Efficiency
-![Fleet Efficiency](screenshots/fleet_efficiency.png)
+![Fleet Efficiency](screenshorts/fleet_efficiency.png)
 
 #### 6. Anomaly Detection
-![Anomaly Detection](screenshots/anomaly_detection.png)
+![Anomaly Detection](screenshorts/anomaly_detection.png)
 
 ## 💡 Findings from the Data-Quality Investigation
 

@@ -354,7 +354,7 @@ Aspiring Business Intelligence Analyst \| Data Analytics \| Python • SQL
 • Power BI
 
 -   💼 LinkedIn: [Connect with
-    me](https://www.linkedin.com/in/fuzailsalmani/)
+    me](https://www.linkedin.com/in/fuzailsalmani)
 
 ## 🤝 Let's Connect & Discuss!
 
